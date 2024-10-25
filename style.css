@@ -1,0 +1,71 @@
+.bod{
+    background-color: black;
+    height: 100%;
+    width: 100%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: row;
+}
+input{
+    background-color: black;
+    border: 2px solid white;
+    color: white;
+    margin: 10px;
+   
+}
+select{
+    background-color: black;
+    border: 2px solid white;
+    color: white;
+}
+button{
+    background-color: black;
+    border: 2px solid white;
+    color: white;
+    margin: 10px;
+}
+.zdj{
+    display: flex;
+    height: 40vh;
+    width: 30vw;
+    background-color: black;
+    border: 2px solid white;
+    color: white;
+    margin: 50px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+label{
+    text-align: center;
+}
+.zdjj{
+    background-color: black;
+    height: 100%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    height: 40vh;
+    width: 30vw;
+}
+textarea{
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+}
